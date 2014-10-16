@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxf:home|Door43 (bxf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxf|d43-bxf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxf/archive/master.zip|d43-bxf.zip]]
+
+**Recent Changes**
+{{changes>ns = bxf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxf|Ethnologue data]]
+
